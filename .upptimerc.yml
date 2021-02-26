@@ -6,6 +6,18 @@ repo: status.welp.me
 sites:
   - name: welp.me
     url: https://welp.me
+  - name: ts.welp.me
+    check: "tcp-ping"
+    url: ts.welp.me
+    port: 10011
+  - name: cs.welp.me
+    check: "tcp-ping"
+    url: cs.welp.me
+    port: 27015
+  - name: mc.welp.me
+    check: "tcp-ping"
+    url: mc.welp.me
+    port: 25565
 
 assignees:
   - jamiew0w
