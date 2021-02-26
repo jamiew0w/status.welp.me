@@ -32,7 +32,7 @@ status-website:
   theme: dark
 
 i18n:
-  footer: <a href="https://honk.ie" target="_blank">honk.ie</a>
+  footer: <a href="https://welp.me" target="_blank">welp.me</a>
 
 workflowSchedule:
   graphs: "*/5 * * * *"
