@@ -18,6 +18,10 @@ sites:
     check: "tcp-ping"
     url: mc.welp.me
     port: 25566
+  - name: valheim.welp.me
+    check: "tcp-ping"
+    url: valheim.welp.me
+    port: 2456
 
 assignees:
   - jamiew0w
