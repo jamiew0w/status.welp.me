@@ -18,13 +18,20 @@ sites:
     check: "tcp-ping"
     url: mc.welp.me
     port: 25566
-  - name: valheim.welp.me
-    check: "tcp-ping"
-    url: valheim.welp.me
-    port: 2457
 
 assignees:
   - jamiew0w
+commitMessages:
+  commitAuthorName: "jamiew0w"
+  commitAuthorEmail: "jamie@welp.me"
+workflowSchedule:
+  graphs: "0 * * * *"
+  responseTime: "0 * * * *"
+  staticSite: "0 * * * *"
+  summary: "0 * * * *"
+  updateTemplate: "0 * * * *"
+  updates: "0 * * * *"
+  uptime: "* * * * *"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
