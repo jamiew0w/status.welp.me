@@ -21,9 +21,6 @@ sites:
 
 assignees:
   - jamiew0w
-commitMessages:
-  commitAuthorName: "jamiew0w"
-  commitAuthorEmail: "jamie@welp.me"
 workflowSchedule:
   graphs: "0 * * * *"
   responseTime: "0 * * * *"
