@@ -4,7 +4,7 @@
     "url": "https://welp.me",
     "icon": "https://favicons.githubusercontent.com/welp.me",
     "slug": "welp-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 579,
     "timeDay": 537,
     "timeWeek": 551,
-    "timeMonth": 611,
+    "timeMonth": 612,
     "timeYear": 579,
     "dailyMinutesDown": {}
   },
